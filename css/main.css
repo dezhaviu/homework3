@@ -1,0 +1,10 @@
+.bg-box {
+    width: 1280px;
+    height: 768px;
+    background: url("/img/House.jpg") center center 700px auto no-repeat content-box,
+                url("/img/lamp.png") top left / 25px auto repeat-x,
+                url("/img/ponchik.png") top right / 25px auto repeat-y,
+                url("/img/grass.jpg") bottom auto / 150px repeat-x,
+                url("/img/ezhik.png") top left / 25px auto repeat-y;
+    background-color: green;
+}
